@@ -16,8 +16,14 @@ create a wordpress page template
 
 `front-page.php`
 
+add script tags that point to associated react files
+
+
 edit funtions.php in child theme to enqueue react styles from /static directory
 
+
+# notes:
+wp db was set up manually in dev environment with a table called 'wp_destinations'
 
 # what:
 
